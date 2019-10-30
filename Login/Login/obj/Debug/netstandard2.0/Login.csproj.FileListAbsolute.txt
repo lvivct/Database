@@ -1,0 +1,13 @@
+D:\Login\Login\Login\bin\Debug\netstandard2.0\Login.deps.json
+D:\Login\Login\Login\bin\Debug\netstandard2.0\Login.dll
+D:\Login\Login\Login\obj\Debug\netstandard2.0\Login.csprojAssemblyReference.cache
+D:\Login\Login\Login\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Login\Login\Login\obj\Debug\netstandard2.0\Login.csproj.CoreCompileInputs.cache
+D:\Login\Login\Login\obj\Debug\netstandard2.0\Login.AssemblyInfoInputs.cache
+D:\Login\Login\Login\obj\Debug\netstandard2.0\Login.AssemblyInfo.cs
+D:\Login\Login\Login\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Login\Login\Login\bin\Debug\netstandard2.0\Login.pdb
+D:\Login\Login\Login\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Login\Login\Login\obj\Debug\netstandard2.0\Login.dll
+D:\Login\Login\Login\obj\Debug\netstandard2.0\Login.pdb
+D:\Login\Login\Login\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
