@@ -16,7 +16,7 @@
         <ListView x:Name="Logins">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell Text="{Binding Login}"/>
+                    <TextCell Text ="{Binding Login}"/>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>

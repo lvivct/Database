@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Login.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,8 @@ namespace Login.Views
         public Page1()
         {
             InitializeComponent();
+            Logins.Text += constant.Login;
+            Hashs.Text += constant.Hash;
         }
     }
 }

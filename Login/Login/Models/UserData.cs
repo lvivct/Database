@@ -11,11 +11,11 @@ namespace Login.Models
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
         public string Login { get; set; }
-        public string Password { get; set; }
+        public string Hash { get; set; }
 
         public bool Corect()
         {
-            if (Login == "" || Password == "")
+            if (Login == "")
                 return false;
             return true;
         }

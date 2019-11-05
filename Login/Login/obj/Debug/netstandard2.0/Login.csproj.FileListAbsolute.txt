@@ -11,3 +11,16 @@ D:\Login\Login\Login\obj\Debug\netstandard2.0\XamlC.stamp
 D:\Login\Login\Login\obj\Debug\netstandard2.0\Login.dll
 D:\Login\Login\Login\obj\Debug\netstandard2.0\Login.pdb
 D:\Login\Login\Login\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\bin\Debug\netstandard2.0\Login.deps.json
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\bin\Debug\netstandard2.0\Login.dll
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\bin\Debug\netstandard2.0\Login.pdb
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\obj\Debug\netstandard2.0\Login.csprojAssemblyReference.cache
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\obj\Debug\netstandard2.0\Login.csproj.CoreCompileInputs.cache
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\obj\Debug\netstandard2.0\Login.AssemblyInfoInputs.cache
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\obj\Debug\netstandard2.0\Login.AssemblyInfo.cs
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\obj\Debug\netstandard2.0\XamlC.stamp
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\obj\Debug\netstandard2.0\Login.dll
+D:\C#\xamarin\Brayzers\XD\Login\Login\Login\obj\Debug\netstandard2.0\Login.pdb
